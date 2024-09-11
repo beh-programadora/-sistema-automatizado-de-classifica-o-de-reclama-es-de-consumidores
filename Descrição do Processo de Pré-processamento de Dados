@@ -1,0 +1,16 @@
+Remoção de Valores Ausentes:
+
+Objetivo: Limpar o conjunto de dados para garantir a qualidade.
+Ações: Identificar e remover ou preencher valores ausentes nas colunas de texto e categoria.
+Limpeza de Texto:
+
+Objetivo: Preparar os textos para a análise de NLP.
+Ações: Remover pontuação, números, e stop words. Realizar stemming ou lemmatization para reduzir palavras às suas formas básicas.
+Tokenização e Vetorização:
+
+Objetivo: Converter textos em uma representação numérica utilizável pelo modelo.
+Ações: Utilizar a técnica TF-IDF (Term Frequency-Inverse Document Frequency) para transformar os textos em vetores de características.
+Divisão dos Dados:
+
+Objetivo: Separar os dados para treinamento e teste do modelo.
+Ações: Dividir o conjunto de dados em treino e teste, geralmente usando uma proporção de 80% para treino e 20% para teste.
