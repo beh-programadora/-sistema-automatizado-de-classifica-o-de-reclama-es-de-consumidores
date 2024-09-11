@@ -1,0 +1,5 @@
+Problema
+O objetivo deste projeto é analisar um conjunto de dados contendo reclamações de consumidores e construir um modelo de classificação de texto para categorizar essas reclamações em diferentes tipos de produtos. Esse sistema permitirá que empresas automatizem o processo de triagem e categorização das reclamações, ajudando a melhorar a eficiência na gestão do feedback dos clientes e a direcionar ações corretivas.
+
+Contexto
+O conjunto de dados utilizado contém reclamações de consumidores, com cada entrada incluindo um texto descritivo da reclamação e a categoria do produto associada. Os dados estão em um arquivo CSV acessível através do Google Drive. O projeto utiliza técnicas de Processamento de Linguagem Natural (NLP) e aprendizado de máquina para classificar automaticamente as reclamações. O modelo de classificação será treinado com o algoritmo Naive Bayes.
