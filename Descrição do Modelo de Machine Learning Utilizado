@@ -1,0 +1,8 @@
+Algoritmo: Naive Bayes
+
+Objetivo: Classificar as reclamações em diferentes categorias de produtos.
+Ações: Treinar o modelo Naive Bayes com o conjunto de dados de treino. Ajustar os parâmetros conforme necessário e avaliar o desempenho no conjunto de teste.
+Parâmetros e Configurações:
+
+Objetivo: Ajustar o modelo para otimizar o desempenho.
+Ações: Configurar o modelo Naive Bayes, se necessário, e ajustar parâmetros para melhorar a precisão.
