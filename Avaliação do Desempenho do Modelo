@@ -1,0 +1,17 @@
+Métricas de Avaliação:
+
+Acurácia: Medir a proporção de predições corretas em relação ao total de predições.
+Matriz de Confusão: Avaliar o desempenho do modelo para cada categoria de produto, identificando verdadeiros positivos, falsos positivos, verdadeiros negativos e falsos negativos.
+Relatório de Classificação: Analisar a precisão, recall e F1-score para cada categoria de produto.
+Análise das Predições:
+
+Objetivo: Compreender a distribuição das predições do modelo.
+Ações: Criar gráficos e tabelas para visualizar como as predições se distribuem entre as categorias.
+Palavras Mais Importantes:
+
+Objetivo: Identificar quais palavras têm maior influência na classificação.
+Ações: Analisar os pesos das palavras no modelo Naive Bayes para determinar quais palavras são mais relevantes para cada categoria.
+Generalização:
+
+Objetivo: Avaliar a capacidade do modelo em lidar com novos dados.
+Ações: Testar o modelo em dados não vistos para verificar sua capacidade de generalização e ajustar conforme necessário.
