@@ -1,0 +1,12 @@
+Importação e Inspeção dos Dados:
+
+Objetivo: Entender a estrutura e o conteúdo dos dados.
+Ações: Carregar o arquivo CSV e verificar as primeiras linhas dos dados. Identificar a presença de valores ausentes e realizar uma visão geral das colunas.
+Distribuição das Categorias:
+
+Objetivo: Analisar a frequência das diferentes categorias de produtos.
+Ações: Criar gráficos de barras para visualizar a distribuição de cada categoria no conjunto de dados.
+Análise do Texto:
+
+Objetivo: Explorar características dos textos das reclamações.
+Ações: Examinar o número médio de palavras por reclamação e identificar palavras comuns. Visualizar a frequência das palavras e padrões nos textos.
