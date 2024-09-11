@@ -1,0 +1,26 @@
+
+## .gitignore
+
+```gitignore
+# Arquivos e pastas a serem ignorados pelo Git
+
+# Arquivos de dados
+data/
+
+# Pastas de resultados
+results/
+
+# Notebooks Jupyter
+*.ipynb_checkpoints
+
+# Arquivos temporários
+*.pyc
+*.pyo
+__pycache__/
+
+# Arquivos de log
+*.log
+
+# Ambiente virtual
+venv/
+.env
