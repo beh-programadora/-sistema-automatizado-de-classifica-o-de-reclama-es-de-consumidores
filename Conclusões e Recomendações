@@ -1,0 +1,8 @@
+Conclusões:
+
+Desempenho do Modelo: Resumir a acurácia do modelo e como ele se saiu na classificação das reclamações. Discutir a eficácia para cada categoria.
+Análise das Categorias: Comentar sobre o comportamento do modelo para diferentes categorias e se há categorias que são mais difíceis de classificar.
+Recomendações:
+
+Melhorias: Sugestões para melhorar o modelo, como experimentar outros algoritmos de classificação ou técnicas avançadas de pré-processamento.
+Implementação Prática: Recomendar como o sistema pode ser integrado e utilizado em um ambiente real para otimizar a triagem de reclamações.
